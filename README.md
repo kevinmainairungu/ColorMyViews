@@ -39,7 +39,7 @@ Working with types of constraints layputs and building layouts using the layout 
 
 <img src="screenshots/Screenshot_1587559429.png" width="200">
 <img src="screenshots/Screenshot_1587561624.png" width="200">
-<img src="screenshots/Screenshot_1587564640.png" width="200">
+<img src="screenshots/Screenshot_1587569637.png" width="200">
 
 
 <hr>
