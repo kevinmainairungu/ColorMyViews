@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/kevinmainairungu/ColorMyViews">
-    <img src="screenshots/screenshoutabout.png" alt="Project Name" width=250 height=160>
+    <img src="screenshots/color.png" alt="Project Name" width=250 height=160>
   </a>
   <h3 align="center">ColourMyViews</h3>
 
@@ -22,35 +22,36 @@
 **3 [Technical](#technical)**<br>
 **4 [Work in Progress](#work-in-progress)**<br>
 **5 [Contributing](#contributing)**<br>
-**6 [License](#license)**<br>
-**7 [Versions](#versions)**<br>
-**8 [Contributers](#contributers)**<br>
+**6 [LessonsLearned] (#lessons)**<br>
+**7 [License](#license)**<br>
+**8 [Versions](#versions)**<br>
+**9 [Contributors](#contributers)**<br>
 
 :point_down: :point_down: :point_down: :point_down: :point_down:
 
 
 <hr>
-## About the app
-Android about me application that shows best practices on implementing data binding
+## Color App
+Working with types of constraints layputs and building layouts using the layout editor
 
 <hr>
 ## General Preview
 #### Screenshots of the app
 
-<img src="screenshots/Screenshot_1587483765.png" width="200">
-<img src="screenshots/Screenshot_1587490002.png" width="200">
+<img src="screenshots/Screenshot_1587559429.png" width="200">
+<img src="screenshots/Screenshot_1587561624.png" width="200">
+<img src="screenshots/Screenshot_1587564640.png" width="200">
 
 ##### Or combine 2 of them as:
-![2images](screenshots/two.jpg) width ="300""
+![2images](screenshots/merged.png) width ="300""
 
 
 <hr>
 ## Technical
 ## Permissions
-* Any permissions needed by the app i.e:
 
-1. Internet
-2. Browse phone
+1. Internet - no
+2. Browse phone - no
 
 <hr>
 
@@ -73,7 +74,7 @@ You can:
 
 **2. Clone this repository :**
  
-         `https://github.com/kevinmainairungu/AboutMe.git`
+         `https://github.com/kevinmainairungu/ColorMyViews.git`
          
 **3. open Project in Android Studio
 
@@ -87,20 +88,20 @@ You can:
 ## To Do List
 
 
-- [x] Adding a findViewById resource instance for the images
-- [ ] SplashScreen
+- [x] Adding constraints
 - [x] Binding data
 - [x] Updating the App to gradle 5.x
-- [X] Button for the 'done' functionality
-- [ ] Creating additional activities for more details
-- [ ] Add recycler view
-- [ ] Link to projects
+- [X] Button for the "change color functionality" functionality
 
 
 
 #### CONTRIBUTING
 ### Assets
 * Credit to artists(music,images,gifs...)
+
+### lessonsLearned
+##lessons
+
 
 ### List of the Contributors on GitHub
 * [Contributors](https://github.com/kevinmainairungu/AboutMe/graphs/contributors)
