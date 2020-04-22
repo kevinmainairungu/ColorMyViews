@@ -27,6 +27,9 @@ class MainActivity : AppCompatActivity() {
 //            boxes using color class color for background
             R.id.box_one_text -> it?.setBackgroundColor(Color.DKGRAY)
             R.id.box_two_text -> it?.setBackgroundColor(Color.GRAY)
+
+//            boxes using color class from android color resources
+            R.id.box_three_text -> it?.setBackgroundResource((android.R.color.holo_green_light))
         }
 
     }
